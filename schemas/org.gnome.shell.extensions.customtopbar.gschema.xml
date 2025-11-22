@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.customtopbar"
+        path="/org/gnome/shell/extensions/customtopbar/">
+
+    <key name="topbar-color" type="s">
+      <default>"#000000"</default>
+      <summary>Topbar background color</summary>
+    </key>
+
+    <key name="topbar-opacity" type="i">
+      <default>255</default>
+      <summary>Topbar opacity (0–255)</summary>
+    </key>
+
+  </schema>
+</schemalist>

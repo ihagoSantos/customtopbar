@@ -1,0 +1,8 @@
+# compilar o schema
+glib-compile-schemas ~/.local/share/gnome-shell/extensions/customtopbar@ihagofs.gmail.com/schemas/
+
+# habilitar extensão
+gnome-extensions enable customtopbar@ihagofs.gmail.com
+
+# reiniciar gnome-shell
+alt + F2 -> r -> enter

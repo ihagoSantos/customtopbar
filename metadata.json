@@ -1,0 +1,14 @@
+{
+    "name": "Custom Topbar",
+    "description": "Customize the topbar",
+    "uuid": "customtopbar@ihagofs.gmail.com",
+    "settings-schema": "org.gnome.shell.extensions.customtopbar",
+    "preferences": "prefs.js",
+    "shell-version": [
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+    ]
+}
