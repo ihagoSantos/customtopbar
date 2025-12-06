@@ -2,6 +2,14 @@
 
 Custom Topbar is a small GNOME Shell extension that lets you set a custom background color and opacity for the top panel (topbar).
 
+## License
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
+
+You are free to use, modify, and share this extension for **non-commercial purposes**, as long as proper attribution is given.
+
+See the full license in the [LICENSE](./LICENSE) file.
+
 ---
 
 ## Features
@@ -121,16 +129,10 @@ Suggested workflow for changes:
 - If preferences do not appear or values are not used, ensure `glib-compile-schemas` ran successfully for the extension `schemas/` directory.
 - If the panel style does not update, check GNOME Shell logs for JS exceptions.
 
----
+## 📸 Screenshots
 
-## License
-
-Add a license to this repository (e.g. `MIT`). If you prefer, I can add a recommended `LICENSE` file.
-
----
-
-If you want, I can also:
-
-- Generate more in-depth docs under a `docs/` directory.
-- Create a short `CONTRIBUTING.md` and `LICENSE` file.
-- Add examples and screenshots to help users configure the extension.
+### Custom Topbar Applied
+![Custom Topbar Example](./assets/topbar-1.png)
+![Custom Topbar Example](./assets/topbar-2.png)
+![Custom Topbar Example](./assets/topbar-3.png)
+![Custom Topbar Example](./assets/topbar-4.png)
